@@ -1,0 +1,14 @@
+.vs/
+.idea/
+Intermediate/
+Saved/
+Binaries/
+Build/
+Plugins/
+**/Intermediate
+**/Saved
+**/Binaries
+**/Build
+*.sln
+*.xcworkspace
+.DS_Store
